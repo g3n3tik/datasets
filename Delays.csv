@@ -1,0 +1,29 @@
+delay_id,delay_category
+1,No Delay
+2,Accident Damage
+3,Capability
+4,Early Component Failure
+5,Higher Priority Work
+6,Incorrect Parts Ordered
+7,Incorrect Parts Recieved
+8,Labour not available
+9,No Parts Available (Source from Vendor)
+10,No Parts Available (STR)
+11,No VOC's
+12,Operator Error
+14,Overdue Component Failure
+15,Planning Error
+16,Rework
+17,Site Emergency
+20,Wait on Access
+21,Wait on Bay Space
+23,Wait on Equipment Delivery
+24,Wait on Ext Services
+25,Wait on Operator
+26,Wait on Parts
+27,Wait on Service Truck
+28,Wait on Tooling
+29,Wait on Warehouse
+30,Warranty
+32,Weather Delays
+33,M1 Error
